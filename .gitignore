@@ -1,6 +1,7 @@
 *.class
-
-# Package Files #
-*.jar
-*.war
-*.ear
+*.log
+bin/
+build/
+runtime/
+logs/
+crawl/

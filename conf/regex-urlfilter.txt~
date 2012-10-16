@@ -1,0 +1,2 @@
+# accept anything else
+ +^http://([a-z0-9]*\.)*nutch.apache.org/
